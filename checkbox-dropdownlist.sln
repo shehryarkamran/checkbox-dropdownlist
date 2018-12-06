@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkbox-dropdownlist", "checkbox-dropdownlist\checkbox-dropdownlist.csproj", "{53BCFDA8-3565-44EF-97BA-4961D57B8810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BCFDA8-3565-44EF-97BA-4961D57B8810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BCFDA8-3565-44EF-97BA-4961D57B8810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BCFDA8-3565-44EF-97BA-4961D57B8810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BCFDA8-3565-44EF-97BA-4961D57B8810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14CED4C4-CB5D-49BE-85AA-B7C1B9210F21}
+	EndGlobalSection
+EndGlobal
